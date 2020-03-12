@@ -1,0 +1,2 @@
+{"_id": {"$oid": "5de3df1d4fd6c0094f6f5f56"}, "plateNo": "KL 7889", "make": "Germany", "model": "BMW", "RateForOneDay": 400, "RateForAdditionalOneOur": 700, "FuelType": "Disel", "SeatingCapacity": 4, "NumberOfAirBags": 4, "NumberOfDoors": 4}
+{"_id": {"$oid": "5de489645f2adf122d0ccdaf"}, "plateNo": "AS 6778", "make": "India", "model": "Alto io", "RateForOneDay": 350, "RateForAdditionalOneOur": 700, "FuelType": "Disel", "SeatingCapacity": 4, "NumberOfAirBags": 4, "NumberOfDoors": 4}

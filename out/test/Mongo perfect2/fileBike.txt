@@ -1,0 +1,1 @@
+{"_id": {"$oid": "5dda1b1f26bd11237555f295"}, "plateNo": "QW 4556", "make": "DFF", "model": "TW ", "RateForOneDay": 100, "RateForAdditionalOneOur": 200, "FuelType": "dff", "SeatingCapacity": 1, "BikeType": "ty", "HelmetType": "hj"}

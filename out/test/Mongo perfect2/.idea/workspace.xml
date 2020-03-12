@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d531dea7-df15-4338-bea8-7b42ef9227ab" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ThPEYES0dp3DyuHwQxne671etx" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.sm.mongo" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="JavaMongoConnector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sm.mongo.JavaMongoConnector" />
+      <module name="Mongo perfect2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sm.mongo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sm.mongo.Test" />
+      <module name="Mongo perfect2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sm.mongo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mongo perfect2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sm.mongo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sm.mongo" />
+      <option name="MAIN_CLASS_NAME" value="com.sm.mongo.TestTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.TestTest" />
+        <item itemvalue="Application.JavaMongoConnector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d531dea7-df15-4338-bea8-7b42ef9227ab" name="Default Changelist" comment="" />
+      <created>1573909242398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573909242398</updated>
+      <workItem from="1573909245266" duration="2569000" />
+      <workItem from="1573911854298" duration="58000" />
+      <workItem from="1573951167536" duration="12841000" />
+      <workItem from="1574017800893" duration="42000" />
+      <workItem from="1574257754861" duration="1063000" />
+      <workItem from="1574302445864" duration="9981000" />
+      <workItem from="1574402718934" duration="2430000" />
+      <workItem from="1574430566639" duration="10491000" />
+      <workItem from="1574489272147" duration="6589000" />
+      <workItem from="1574574579754" duration="1255000" />
+      <workItem from="1574662440883" duration="660000" />
+      <workItem from="1574676951962" duration="2429000" />
+      <workItem from="1574682536182" duration="953000" />
+      <workItem from="1574763666500" duration="827000" />
+      <workItem from="1574934759685" duration="182000" />
+      <workItem from="1574951365081" duration="1204000" />
+      <workItem from="1575026972491" duration="1534000" />
+      <workItem from="1575090051729" duration="9241000" />
+      <workItem from="1575177529249" duration="60607000" />
+      <workItem from="1576023328061" duration="178000" />
+      <workItem from="1576025676476" duration="269000" />
+      <workItem from="1576049756461" duration="337000" />
+      <workItem from="1576104397385" duration="6830000" />
+      <workItem from="1576116243173" duration="230000" />
+      <workItem from="1576116514203" duration="88000" />
+      <workItem from="1576123479136" duration="618000" />
+      <workItem from="1576379990395" duration="28000" />
+      <workItem from="1576380036763" duration="5000" />
+      <workItem from="1578020217140" duration="645000" />
+      <workItem from="1578708022724" duration="605000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
